@@ -1,5 +1,6 @@
 # cs-class-extends
 
+## NextClass ✖
 ```cs
 namespace form_01
 {
@@ -16,7 +17,7 @@ namespace form_01
     }
 }
 ```
-
+## NextClass 〇
 ```cs
 namespace form_01
 {
